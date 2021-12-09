@@ -1,0 +1,27 @@
+.bg-1 {
+  background-color: rgb(28, 25, 43);
+  color: rgb(220, 223, 224);
+}
+
+.bg-2 {
+  background-color: rgb(30, 31, 73);
+  color: rgb(220, 223, 224);
+}
+
+.bg-3 {
+  background-color: rgb(100, 84, 237);
+  color: rgb(255, 255, 255);
+}
+
+section {
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}
+
+.text-reader {
+  position: fixed;
+  left: -1000000000px;
+}
