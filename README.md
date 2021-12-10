@@ -6,4 +6,17 @@ Resource : [LCK Brand page](https://brand.lck.co.kr/)
 
 ---
 
-## 회고
+_latest (21/12/10)_
+
+## 🏗 제작 과정
+
+1. 각 `<section>` 태그 별 레이아웃
+
+   각 section 태그 별 레이아웃은 반응형으로 2단계로 나눠 제작하였음  
+   section 별 상하 paddding 및 내부 콘텐츠 좌우 안전 padding.
+
+<br>
+
+2. BG-color
+
+   bg-scroll.js를 참고
