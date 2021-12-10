@@ -1,16 +1,19 @@
 .bg-1 {
   background-color: rgb(28, 25, 43);
   color: rgb(220, 223, 224);
+  transition: all 0.6s;
 }
 
 .bg-2 {
   background-color: rgb(30, 31, 73);
   color: rgb(220, 223, 224);
+  transition: all 0.6s;
 }
 
 .bg-3 {
   background-color: rgb(100, 84, 237);
   color: rgb(255, 255, 255);
+  transition: all 0.6s;
 }
 
 section {

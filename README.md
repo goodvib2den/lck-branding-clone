@@ -5,3 +5,5 @@
 Resource : [LCK Brand page](https://brand.lck.co.kr/)
 
 ---
+
+## 회고
