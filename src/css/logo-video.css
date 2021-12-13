@@ -1,0 +1,39 @@
+.section--logo-video {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 700px) {
+  .section--logo-video {
+    padding: 120px 0 120px 0;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .section--logo-video {
+    padding: 40px 0 40px 0;
+  }
+}
+
+.section--logo-video .logo-video-wrap {
+  position: relative;
+  width: 80%;
+}
+
+.section--logo-video .video-box {
+  border: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.section--logo-video .logo-video-wrap::before {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
+  background-color: inherit;
+}

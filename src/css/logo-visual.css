@@ -4,9 +4,6 @@
 }
 
 .section--logo-visual .logo-box {
-  background-image: url(../img/our-logo/main-visual.jpg);
-  background-position: center center;
-  background-size: cover;
   border: none;
   position: absolute;
   top: 0;

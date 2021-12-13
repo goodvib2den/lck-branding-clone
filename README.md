@@ -6,7 +6,7 @@ Resource : [LCK Brand page](https://brand.lck.co.kr/)
 
 ---
 
-_latest (21/12/10)_
+_latest (21/12/13)_
 
 ## 🏗 제작 과정
 
@@ -20,3 +20,11 @@ _latest (21/12/10)_
 2. BG-color
 
    bg-scroll.js를 참고
+
+   _화면 리사이즈 시 상단 반응형 elements로 인해 위치 값을 재설정 해줘야함_
+
+<br>
+
+3. Video play visual
+
+   비디오로 플레이되는 섹션 `autoplay`로 구현하고 비율 반응형에 맞춰 제작
