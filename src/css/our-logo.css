@@ -57,12 +57,14 @@
 
 .section--logo .content .en-content {
   font-family: "Ubuntu", sans-serif;
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 400;
+  line-height: 160%;
 }
 
 .section--logo .content .ko-content {
   font-family: "Noto Sans KR", sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: 400;
+  line-height: 160%;
 }

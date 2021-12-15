@@ -72,10 +72,12 @@
   font-family: "Ubuntu", sans-serif;
   font-size: 22px;
   font-weight: 400;
+  line-height: 160%;
 }
 
 .section--introduce .content .ko-content {
   font-family: "Noto Sans KR", sans-serif;
   font-size: 20px;
   font-weight: 400;
+  line-height: 160%;
 }
